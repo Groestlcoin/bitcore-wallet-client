@@ -29,6 +29,7 @@
     "bitcore-lib": "https://github.com/Groestlcoin/bitcore-lib.git",
     "bitcore-mnemonic": "https://github.com/Groestlcoin/bitcore-mnemonic.git",
     "bitcore-payment-protocol": "https://github.com/Groestlcoin/bitcore-payment-protocol.git",
+    "node-groestl-hash": "=0.0.1",
     "browser-request": "^0.3.3",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^3.3.1",
